@@ -26,7 +26,7 @@ A simple and modern Expense Tracker built with HTML, CSS, and JavaScript.
 MIT
 
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -231,3 +231,4 @@ updateUI();
 
 </body>
 </html>
+```
